@@ -79,10 +79,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferdiodwi/ferdiodwi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferdiodwi/ferdiodwi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ferdiodwi/ferdiodwi/output/pacman-contribution-graph.svg">
-</picture>
+
+<div align="center">
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xri2dk5go6y7da8wpm91i2dpx)
+</div>
 
 ###
