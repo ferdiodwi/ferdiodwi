@@ -78,11 +78,3 @@
 <img src="https://raw.githubusercontent.com/ferdiodwi/ferdiodwi/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-<div align="center">
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xri2dk5go6y7da8wpm91i2dpx)
-</div>
-
-###
