@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -55,4 +55,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ferdiodwi/ferdiodwi/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
